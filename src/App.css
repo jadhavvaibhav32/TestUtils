@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.blank{
+  color: rgba(244, 10, 10, 0.779);
+}
+
+/* .copied-indicator {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  color: darkgreen;
+  font-weight: bold;
+} */
